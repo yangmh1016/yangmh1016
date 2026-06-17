@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif" width="165" align="right" alt="neon screen">
+  <img src="https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif" width="230" align="right" alt="neon screen">
   <br>
   <samp>
     Numerical Computing | Neural Networks | Uncertainty Quantification
