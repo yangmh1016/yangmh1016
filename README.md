@@ -1,26 +1,21 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif" width="38%" align="right" alt="neon screen">
-  <br><br>
+  <a href="https://github.com/yangmh1016">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2200&pause=900&color=22D3EE&background=020617&center=true&vCenter=true&repeat=true&width=900&height=180&lines=HI%20I%20AM%20YANG%20MINGHUI" width="900" alt="HI I AM YANG MINGHUI">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif" width="165" align="right" alt="neon screen">
+  <br>
   <samp>
-    $ whoami
-    <br>
-    <b>yangmh1016</b>
+    Numerical Computing | Neural Networks | Uncertainty Quantification
     <br><br>
-    $ load --theme neon-shell
-    <br>
-    0101 1010 0011 0110
-    <br><br>
-    $ status
-    <br>
-    online
+    Python | Git | GitHub | Linux | Matlab | VS Code | PowerShell
   </samp>
+  <br><br>
 </p>
 
 <br clear="right">
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=560&lines=%3E_%20neon%20shell%20interface;%3E_%20python%20%7C%20linux%20%7C%20automation;%3E_%20quietly%20building" alt="typing animation">
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,linux,matlab,vscode,powershell&perline=7" alt="skills">
