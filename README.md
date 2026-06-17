@@ -1,5 +1,9 @@
 ## Hi there 👋
+<!-- 核心数据统计卡片 -->
+<img src="https://github-readme-stats.vercel.app/api?username=yangmh1016&show_icons=true&theme=radial" alt="GitHub Stats" />
 
+<!-- 语言使用比例卡片（展示你最常用的技术栈） -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangmh1016&layout=compact&theme=radial" alt="Top Langs" />
 <!--
 **yangmh1016/yangmh1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
