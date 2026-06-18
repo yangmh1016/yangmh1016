@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif" width="230" align="right" alt="neon screen">
   <br>
   <samp>
-    Numerical Computing | Neural Networks | Uncertainty Quantification
+    Numerical Computing | Neural Operator | Uncertainty Quantification
     <br><br>
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=560&lines=%3E_%20Python%20%7C%20Git%20%7C%20GitHub;%3E_%20Linux%20%7C%20Matlab%20%7C%20VS%20Code" alt="typing animation">
   </samp>
